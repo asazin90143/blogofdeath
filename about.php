@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us - Death List</title>
+    <title>About Us - Shinigami</title>
     <style>
         /* style.css content with background image added to the body */
         body {
@@ -117,7 +117,7 @@
 <body>
     <header>
         <nav>
-            <div class="logo">Death List</div>
+            <div class="logo">Shinigami</div>
             <ul>
                 <li><a href="index.php">Home</a></li>
                 <li><a href="about.php">About Us</a></li>
@@ -143,7 +143,7 @@
     </main>
 
     <footer>
-        <p>&copy; <?php echo date("Y"); ?> Death List</p>
+        <p>&copy; <?php echo date("Y"); ?> Shinigami</p>
     </footer>
 </body>
 </html>
